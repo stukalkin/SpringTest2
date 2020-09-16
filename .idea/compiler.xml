@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringTestL3" />
         <module name="SpringTest2" />
+        <module name="SpringTestL4" />
       </profile>
     </annotationProcessing>
   </component>
